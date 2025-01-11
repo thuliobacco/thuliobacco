@@ -1,10 +1,3 @@
-echo "# thuliobacco" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/thuliobacco/thuliobacco.git
-git push -u origin main
 <h1 align="left">Prazer, meu nome é Thulio</h1>
 <h3 align="left">Sou uma pessoa que sabe viver a vida e também estou evoluindo para ser um cientista da computação.</h3>
 

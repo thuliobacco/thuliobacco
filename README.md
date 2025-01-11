@@ -5,7 +5,7 @@
 
 - 👨‍💻 Estou cursando bacharelado em Ciências da Computação no **INTELI**
 
-- 🙋🏼‍♂️ Sou uma pessoa bem extrovertida, que gosta de fazer novos contatos e entender os ideais e propósitos dos outros
+- 🙋🏼‍♂️ Tenho 18 anos, sou uma pessoa bem extrovertida, que gosta de fazer novos contatos e entender os ideais e propósitos dos outros
 
 - 💬 Pode conversar comigo sobre: **música, esportes, e-sports, habilidades de comunicação, persuasão, cristianismo, desenvolvimento pessoal e social, etc...**
 

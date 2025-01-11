@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tb7beast&label=Profile%20views&color=0e75b6&style=flat" alt="tb7beast" /> </p>
 
-- 👨‍💻 Estou cursando bacharelado em Ciências da Computação no **INTELI**
+- 🙋🏼‍♂️ Tenho 18 anos, tenho interesse em tudo, sou uma pessoa bem extrovertida, que gosta de fazer novos contatos e entender os ideais e propósitos dos outros
 
-- 🙋🏼‍♂️ Tenho 18 anos, sou uma pessoa bem extrovertida, que gosta de fazer novos contatos e entender os ideais e propósitos dos outros
+- 👨‍💻 Estou cursando bacharelado em Ciências da Computação no **INTELI**
 
 - 💬 Pode conversar comigo sobre: **música, esportes, e-sports, habilidades de comunicação, persuasão, cristianismo, desenvolvimento pessoal e social, etc...**
 

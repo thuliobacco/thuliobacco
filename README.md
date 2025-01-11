@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tb7beast&label=Profile%20views&color=0e75b6&style=flat" alt="tb7beast" /> </p>
 
-- 🙋🏼‍♂️ Tenho 18 anos, tenho interesse em tudo, sou uma pessoa bem extrovertida, que gosta de fazer novos contatos e entender os ideais e propósitos dos outros
+- 🙋🏼‍♂️ Tenho 18 anos, tenho interesse em tudo. Sendo uma pessoa bem extrovertida, gosto de fazer novos contatos e entender os ideais e propósitos dos outros. Também gosto de séries, animes e criadores de conteúdo. Sou fissurado por competições no geral e, principalmente, esportivas
 
 - 👨‍💻 Estou cursando bacharelado em Ciências da Computação no **INTELI**
 

@@ -5,18 +5,20 @@
 
 - 👨‍💻 Estou cursando bacharelado em Ciências da Computação no **INTELI**
 
-- 🧠 **"Não basta conquistar a sabedoria, é preciso usá-la"** - Cícero
+- 🙋🏼‍♂️ Sou uma pessoa bem extrovertida, que gosta de fazer novas amizades e entender o ideais e propósitos dos outros
 
 - 💬 Pode conversar comigo sobre: **música, esportes, e-sports, habilidades de comunicação, persuasão, cristianismo, desenvolvimento pessoal e social, etc...**
 
-- 📫 Como se comunicar comigo: **thuliosbacco@gmail.com** ou via <a href="https://instagram.com/thuliobacco_n">**instagram**</a>
-
 - ⚡ Fato desnecessariamente curioso: **sou realmente bom jogando futmesa ⚽, além disso conclui o curso técnico de piano na Escola Municipal de Artes (11 anos de dedicação máxima) 🎹**
 
-<h2 align="left">Buddy</h2>
+- 📫 Como se comunicar comigo: **thuliosbacco@gmail.com** ou via <a href="https://instagram.com/thuliobacco_n">**instagram**</a>
+
+- 🧠 **"Não basta conquistar a sabedoria, é preciso usá-la"** - Cícero
+
+<h2 align="left">🤝 Buddy</h2>
 <h3 align="left">Nada menos injusto que a pessoa que me apresentou o Inteli ser o meu buddy: <a href="https://github.com/PiemonteF">Fabinho</a>, em busca do progresso juntos, sempre! 📈</h3>
 
-<h2 align="left">📲Contate-me:</h2>
+<h2 align="left">📲 Contate-me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/thulio-bacco-55a1172b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thulio bacco" height="30" width="40" /></a>
 <a href="https://instagram.com/thuliobacco_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thuliobacco_n" height="30" width="40" /></a>

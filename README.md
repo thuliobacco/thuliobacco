@@ -14,6 +14,8 @@
 
 - ⚡ Fato desnecessariamente curioso: **sou realmente bom jogando futmesa ⚽, além disso conclui o curso técnico de piano na Escola Municipal de Artes (11 anos de dedicação máxima) 🎹**
 
+<h1 align="left">Buddy</h1>
+<h3 align="left">nada menos injusto que a pessoa que me apresentou o Inteli ser o meu buddy: <a href="https://github.com/PiemonteF">Fabinho</a>, em busca do progresso juntos, sempre! 📈</h3>
 
 <h3 align="left">📲Contate-me:</h3>
 <p align="left">

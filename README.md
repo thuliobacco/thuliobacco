@@ -9,7 +9,7 @@
 
 - 💬 Pode conversar comigo sobre: **música, esportes, e-sports, habilidades de comunicação, persuasão, cristianismo, desenvolvimento pessoal e social, etc...**
 
-- ⚡ Fato desnecessariamente curioso: **sou realmente bom jogando futmesa ⚽, além disso conclui o curso técnico de piano na Escola Municipal de Artes (11 anos de dedicação máxima) 🎹**
+- ⚡ Fato desnecessariamente curioso: **sou realmente bom jogando futmesa ⚽, além disso conclui o curso técnico de piano na Escola Municipal de Artes (11 anos de dedicação) 🎹**
 
 - 📫 Como se comunicar comigo: **thuliosbacco@gmail.com** ou via <a href="https://instagram.com/thuliobacco_n">**instagram**</a>
 
